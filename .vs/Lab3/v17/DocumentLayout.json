@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|c:\\users\\pc\\desktop\\library\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|c:\\users\\pc\\desktop\\library\\domain\\entities\\concretebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|solutionrelative:domain\\entities\\concretebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|c:\\users\\pc\\desktop\\library\\application\\builders\\acquisitionrecordbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|solutionrelative:application\\builders\\acquisitionrecordbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|c:\\users\\pc\\desktop\\library\\domain\\entities\\acquisitionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|solutionrelative:domain\\entities\\acquisitionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|c:\\users\\pc\\desktop\\library\\application\\factories\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|solutionrelative:application\\factories\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|c:\\users\\pc\\desktop\\library\\domain\\entities\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|solutionrelative:domain\\entities\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|c:\\users\\pc\\desktop\\library\\domain\\entities\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E8FF0A-C0C5-4ED5-9E62-18C788CF162D}|Lab3.csproj|solutionrelative:domain\\entities\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcreteBook.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Library\\Domain\\Entities\\ConcreteBook.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ConcreteBook.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Library\\Domain\\Entities\\ConcreteBook.cs",
+              "RelativeToolTip": "Domain\\Entities\\ConcreteBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:50:54.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Library\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Library\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:46:28.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcquisitionRecordBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Library\\Application\\Builders\\AcquisitionRecordBuilder.cs",
+              "RelativeDocumentMoniker": "Application\\Builders\\AcquisitionRecordBuilder.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Library\\Application\\Builders\\AcquisitionRecordBuilder.cs",
+              "RelativeToolTip": "Application\\Builders\\AcquisitionRecordBuilder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:46:13.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcquisitionRecord.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Library\\Domain\\Entities\\AcquisitionRecord.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AcquisitionRecord.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Library\\Domain\\Entities\\AcquisitionRecord.cs",
+              "RelativeToolTip": "Domain\\Entities\\AcquisitionRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:45:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Library\\Domain\\Entities\\Newspaper.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Newspaper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Library\\Domain\\Entities\\Newspaper.cs",
+              "RelativeToolTip": "Domain\\Entities\\Newspaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:44:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Library\\Domain\\Entities\\Magazine.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Magazine.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Library\\Domain\\Entities\\Magazine.cs",
+              "RelativeToolTip": "Domain\\Entities\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:44:32.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Library\\Application\\Factories\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Library\\Application\\Factories\\DocumentFactory.cs",
+              "RelativeToolTip": "Application\\Factories\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:43:45.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

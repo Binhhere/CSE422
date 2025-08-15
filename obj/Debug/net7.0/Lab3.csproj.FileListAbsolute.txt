@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Library\bin\Debug\net7.0\Lab3.exe
+C:\Users\PC\Desktop\Library\bin\Debug\net7.0\Lab3.deps.json
+C:\Users\PC\Desktop\Library\bin\Debug\net7.0\Lab3.runtimeconfig.json
+C:\Users\PC\Desktop\Library\bin\Debug\net7.0\Lab3.dll
+C:\Users\PC\Desktop\Library\bin\Debug\net7.0\Lab3.pdb
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\Lab3.AssemblyInfo.cs
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\Lab3.sourcelink.json
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\Lab3.dll
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\refint\Lab3.dll
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\Lab3.pdb
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\Lab3.genruntimeconfig.cache
+C:\Users\PC\Desktop\Library\obj\Debug\net7.0\ref\Lab3.dll
